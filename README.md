@@ -1,7 +1,7 @@
 # CAPSTONE-OCEAN
 ## Cloud Computing PATH
 
-**How to Deploy**
+**Table of Content**
 
 * General Information    
 * Technologies   
