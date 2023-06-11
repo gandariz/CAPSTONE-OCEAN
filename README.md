@@ -1,7 +1,7 @@
 # CAPSTONE-OCEAN
-THIS IS CAPSTONE PROJECT OF OCEAN
 
-CC PATH
+
+##Cloud Computing PATH
 
 How to Deploy
 
