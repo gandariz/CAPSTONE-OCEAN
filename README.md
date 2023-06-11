@@ -1,6 +1,4 @@
 # CAPSTONE-OCEAN
-
-
 ##Cloud Computing PATH
 
 How to Deploy
