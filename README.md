@@ -19,6 +19,13 @@ This is the API for our app OCEAN which stands for "Openness Conscientiousness E
 For further information you can contact:
 - mgandar007@gmail.com (Muhammad Ganda Rizky)
 
+##  How to Deploy
+In order to use the endpoint, you have to deploy the API using App Engine in Google Cloud Platform. Here's how :
+- Clone the project **“Captsnoe-OCEAN** from repo
+- Create Cloud SQL database (Cloud SQL for MySQL)
+- Set up the required database
+- Deploy the app in App Engina editor
+- Click the generated endpoint link to test the connection
 
 how to use API
 
