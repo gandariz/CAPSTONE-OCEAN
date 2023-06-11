@@ -3,11 +3,11 @@
 
 **How to Deploy**
 
-*General Information    
-*Technologies   
-*Contact    
-*How To Deploy to GCP    
-*Documentation    
+* General Information    
+* Technologies   
+* Contact    
+* How To Deploy to GCP    
+* Documentation    
 
 2.we use cloud sql for databases
 
