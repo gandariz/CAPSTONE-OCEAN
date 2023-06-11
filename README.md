@@ -3,7 +3,11 @@
 
 **How to Deploy**
 
-1.we use app engine for deploy
+*General Information
+Technologies
+Contact
+How To Deploy to GCP
+Documentation
 
 2.we use cloud sql for databases
 
