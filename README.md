@@ -1,7 +1,7 @@
 # CAPSTONE-OCEAN
 ## Cloud Computing PATH
 
-How to Deploy
+**How to Deploy**
 
 1.we use app engine for deploy
 
