@@ -11,14 +11,19 @@ A one-stop notebook that incorporates almost all cycles of Machine Learning: dat
 **./OCEAN/model**
   **./converted**
   explanation here
+  
   **./O model.h5**
   explanation here
+  
   **./C model.h5**
   explanation here
+  
   **./E model.h5**
   explanation here
+  
   **./A model.h5**
   explanation here
+  
   **./N model.h5**
   explanation here
   
