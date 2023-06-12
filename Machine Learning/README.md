@@ -37,8 +37,6 @@ Using PCA before clustering has several benefits. First, it can help to eliminat
 using different models than multitask learning because the approach involves training various models that specialize in specific areas and allowing them to leverage their strengths. Each model is trained on data that is independent and relevant to its specific domain, enabling it to make predictions or perform tasks related to that domain. This approach offers more flexibility and specialization, potentially resulting in better overall performance. By capitalizing on the strengths of each model and utilizing domain-specific data, we can achieve more accurate predictions and task performances, leading to improved outcomes in various applications.
 
 
-## Model Training Result
-![This is the plotted model training epoch vs accuracy sample.](https://www.dropbox.com/s/tq4wh58nxakb1si/picture2.png?dl=0 "This is the plotted model training epoch vs accuracy sample.")
 
 ## Machine Learning Cycles
 
