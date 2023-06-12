@@ -54,5 +54,5 @@ using different models than multitask learning because the approach involves tra
 1. Making new models
 2. Feeding the dataset into the untrained model
 3. After training the models evaluate the model
-4. If the model isn't good enough, then please follow steps 1-3. However, if the "while" is good enough, you can proceed to save the model in the h5 format.
+4. If the model isn't good enough, then please follow steps 1-3. However, if the model is good enough, you can proceed to save the model in the h5 format.
 5. Convert h5 models format to tensorflow js
