@@ -38,7 +38,7 @@ using different models than multitask learning because the approach involves tra
 
 
 ## Model Training Result
-![This is the plotted model training epoch vs accuracy sample.](/readme_img/model_result_example.png "This is the plotted model training epoch vs accuracy sample.")
+![This is the plotted model training epoch vs accuracy sample.](https://www.dropbox.com/s/tq4wh58nxakb1si/picture2.png?dl=0 "This is the plotted model training epoch vs accuracy sample.")
 
 ## Machine Learning Cycles
 
