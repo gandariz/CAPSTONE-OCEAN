@@ -23,7 +23,7 @@ For further information you can contact:
 
 ##  How to Deploy
 In order to use the endpoint, you have to deploy the API using App Engine in Google Cloud Platform. Here's how :
-- Clone the project **“Captsnoe-OCEAN"** from repo
+- Clone the project **“Captstone-OCEAN"** from repo
 - Create Cloud SQL database (Cloud SQL for MySQL)
 - Set up the required database
 - Deploy the app in App Engine editor
