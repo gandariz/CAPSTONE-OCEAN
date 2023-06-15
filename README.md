@@ -40,7 +40,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Method
   - GET
 - Request Body
-  - -
+  - .body
   
 
 ## Get Question by context
