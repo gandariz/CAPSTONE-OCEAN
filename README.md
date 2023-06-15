@@ -29,15 +29,18 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Deploy the app in App Engina editor
 - Click the generated endpoint link to test the connection
 
-how to use API
+# how to use API  
+## Check All Destinations
+**Endpoint :**\
+<https://[API-NAME-run.app]/q>
 
-1. POST questions Array
-(https://<apiurl>/q)
-  
-2. GET all questions
 
-3. GET question by context
-https:/question/:context
+- Url : 
+  - /q
+- Method
+  - GET
+- Request Body
+  - -
   
 
 
