@@ -110,7 +110,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
   - /users/:id
 - Method
   - GET
-  - Request Body
+- Request Body
   - .param
   
 # C23-PS103 - MACHINE LEARNING Repo.
