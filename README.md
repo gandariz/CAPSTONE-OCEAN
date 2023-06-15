@@ -26,11 +26,11 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Clone the project **“Captsnoe-OCEAN"** from repo
 - Create Cloud SQL database (Cloud SQL for MySQL)
 - Set up the required database
-- Deploy the app in App Engina editor
+- Deploy the app in App Engine editor
 - Click the generated endpoint link to test the connection
 
 # how to use API  
-## Check All Destinations
+## Get All Question
 **Endpoint :**\
 <https://[API-NAME-run.app]/q>
 
@@ -42,8 +42,66 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - -
   
+**Endpoint :**\
+## Get Question by context
+<https://[API-NAME-run.app]/question/:context>
 
 
+- Url : 
+  - /question/:context
+- Method
+  - GET
+- Request Body
+  - .body
+
+**Endpoint :**\
+## EDIT question by context
+<https://[API-NAME-run.app]/question/:context>
+
+
+- Url : 
+  - /question/:context
+- Method
+  - PUT
+- Request Body
+  - .body
+
+**Endpoint :**\
+## DELETE question by context
+<https://[API-NAME-run.app]/question/:context>
+
+
+- Url : 
+  - /question/:context
+- Method
+  - DELETE
+- Request Body
+  - .params.context
+
+**Endpoint :**\
+## POST users
+<https://[API-NAME-run.app]/question/users>
+
+
+- Url : 
+  - /users
+- Method
+  - POST
+- Request Body
+  - .body
+
+**Endpoint :**\
+## GET all users
+<https://[API-NAME-run.app]/question/users>
+
+
+- Url : 
+  - /users
+- Method
+  - SELECT * FROM users
+- Request Body
+  - .id
+  
 # C23-PS103 - MACHINE LEARNING Repo.
 
 ## About
