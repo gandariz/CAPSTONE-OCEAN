@@ -1,4 +1,5 @@
 # Capstone-Project-C23-PS103 / OCEAN
+# C23-PS103 - Cloud Computing Repo.
 ## Table of Contents
 - General Information
 - Technologies
@@ -7,7 +8,6 @@
 - Documentation
 
 
-# C23-PS103 - Cloud Computing Repo.
 ## General Info
 This is the API for our app OCEAN which stands for "Openness Conscientiousness Extraversion Agreeableness Neurotic". This API is deployed using Google Cloud Platform's App Engine service and connected to the Cloud SQL database.
 
