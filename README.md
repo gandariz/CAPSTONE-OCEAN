@@ -101,6 +101,17 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
   - SELECT * FROM users
 - Request Body
   - .id
+
+## Get a user by ID
+<https://[API-NAME-run.app]//users/:id
+
+
+- Url : 
+  - /users/:id
+- Method
+  - GET
+  - Request Body
+  - .param
   
 # C23-PS103 - MACHINE LEARNING Repo.
 
