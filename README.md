@@ -42,7 +42,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - -
   
-**Endpoint :**\
+
 ## Get Question by context
 <https://[API-NAME-run.app]/question/:context>
 
@@ -54,7 +54,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - .body
 
-**Endpoint :**\
+
 ## EDIT question by context
 <https://[API-NAME-run.app]/question/:context>
 
@@ -66,7 +66,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - .body
 
-**Endpoint :**\
+
 ## DELETE question by context
 <https://[API-NAME-run.app]/question/:context>
 
@@ -78,7 +78,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - .params.context
 
-**Endpoint :**\
+
 ## POST users
 <https://[API-NAME-run.app]/question/users>
 
@@ -90,7 +90,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 - Request Body
   - .body
 
-**Endpoint :**\
+
 ## GET all users
 <https://[API-NAME-run.app]/question/users>
 
