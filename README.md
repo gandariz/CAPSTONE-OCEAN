@@ -1,4 +1,4 @@
-## Capstone-Project-C23-PS103 / OCEAN
+# Capstone-Project-C23-PS103 / OCEAN
 ## Table of Contents
 - General Information
 - Technologies
