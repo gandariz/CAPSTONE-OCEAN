@@ -103,7 +103,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
   - .id
 
 ## Get a user by ID
-<https://[API-NAME-run.app]//users/:id
+<https://[API-NAME-run.app]/users/:id
 
 
 - Url : 
