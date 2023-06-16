@@ -8,7 +8,7 @@
 
 -(ML) M181DKX3780  Raihansyah Arifin
 
--(CC) C356DKX4149  Muhammad Ganda Rizky
+-(CC) C346DKX4149  Muhammad Ganda Rizky
 
 -(CC) C263DSX1381  Muhammad Abdul Azizul Hakim
 
