@@ -9,7 +9,16 @@ const DataSchema = new mongoose.Schema({
   tempat_lahir: String,
 });
 
+// const QuestionSchema = new mongoose.Schema({
+//   data: [{
+//   Context: String,
+//   original_question: String,
+//   modified_question: String
+//   }]
+// });
+
 const Data = mongoose.model('Data', DataSchema);
+// const Question = mongoose.model('Question', QuestionSchema);
 
 Data.create(Data)
   .then((createdData) => {
@@ -18,6 +27,14 @@ Data.create(Data)
   .catch((error) => {
     console.error('Terjadi kesalahan:', error);
   });
+
+// Question.create(Question)
+//   .then((createdQuestion) => {
+//     console.log('Question berhasil ditambahkan:', createdQuestion);
+//   })
+//   .catch((error) => {
+//     console.error('Terjadi kesalahan:', error);
+//   });
 
 // Inisialisasi server Hapi
 const init = async () => {
@@ -100,6 +117,21 @@ const init = async () => {
       }
     },
   });
+
+  // // Endpoint POST untuk menambahkan question baru
+  // server.route({
+  //   method: 'POST',
+  //   path: '/api/question',
+  //   handler: async (request, h) => {
+  //     try {
+  //       const newQuestion = new Question(request.payload);
+  //       const savedQuestion = await newQuestion.save();
+  //       return savedQuestion;
+  //     } catch (error) {
+  //       return h.response('Error').code(500);
+  //     }
+  //   },
+  // });
 
   await connectDB();
   // Menjalankan server
