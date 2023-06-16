@@ -2,10 +2,15 @@
 # C23-PS103 
 ## Member
 -(ML) M346DKX4122  Alif Akbar Muhammad Isra  alifisra27@gmail.com
+
 -(ML) M040DSX2572  Rafi Athallah 
--(ML) M181DKX3780  Raihansyah Arifin  
--(CC) C356DKX4149  Muhammad Ganda Rizky 
+
+-(ML) M181DKX3780  Raihansyah Arifin
+
+-(CC) C356DKX4149  Muhammad Ganda Rizky
+
 -(CC) C263DSX1381  Muhammad Abdul Azizul Hakim
+
 -(MD) A346DKX4281  Muhammad Raihan Aufa Kamal 
 
 ## Table of Contents
