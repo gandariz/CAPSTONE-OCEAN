@@ -152,7 +152,7 @@ In order to use the endpoint, you have to deploy the API using App Engine in Goo
 # C23-PS103 - MACHINE LEARNING Repo. (Go to `Machine Learning` folder)
 
 ## About
-This is the folder for Machine Learning repo. We made a one-stop notebook `OCEAN.ipynb` (please do check out this out in `Machine Learning` folder) that incorporates almost all cycles of Machine Learning: data gathering, data preprocessing (including the algorithm about labeling, PCA, and K-means clustering), modeling and model training, histograms, and model saving (in HDF5 format). The outputs of the notebook are generated in the `./OCEAN` folder.
+This is the folder for Machine Learning repo. We made a one-stop notebook `OCEAN.ipynb` (please check this out in `Machine Learning` folder) that incorporates almost all cycles of Machine Learning: data gathering, data preprocessing (including the algorithm about labeling, PCA, and K-means clustering), modeling and model training, histograms, and model saving (in HDF5 format). The outputs of the notebook are generated in the `./OCEAN` folder.
 
 
 ## Dataset
