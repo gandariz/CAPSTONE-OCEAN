@@ -2,7 +2,7 @@
 # Capstone-Project-C23-PS103 / OCEAN
 # C23-PS103 
 ## Member
--(ML) M346DKX4122  Alif Akbar Muhammad Isra  alifisra27@gmail.com
+-(ML) M346DKX4122  Alif Akbar Muhammad Isra  
 
 -(ML) M040DSX2572  Rafi Athallah 
 
