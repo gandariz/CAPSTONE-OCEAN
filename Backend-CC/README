@@ -1,0 +1,137 @@
+# Capstone-Project-C23-PS103 / OCEAN
+# C23-PS103 - Cloud Computing Repo.
+## Table of Contents
+- General Information
+- Technologies
+- Contact
+- How To Deploy to GCP
+- Documentation
+
+
+## General Info
+This is the API for our app OCEAN which stands for "Openness Conscientiousness Extraversion Agreeableness Neurotic". This API is deployed using Google Cloud Platform's App Engine service and connected to the Cloud SQL database.
+
+## Technologies
+- Node.js version : v16.14.0
+- Google Cloud Platform
+- SQL Database
+- App Engine
+
+## Contact
+For further information you can contact:
+- mgandar007@gmail.com (Muhammad Ganda Rizky)
+
+##  How to Deploy
+In order to use the endpoint, you have to deploy the API using App Engine in Google Cloud Platform. Here's how :
+- Clone the project **“Captstone-OCEAN"** from repo
+- Create Cloud SQL database (Cloud SQL for MySQL)
+- Set up the required database
+- Deploy the app in App Engine editor
+- Click the generated endpoint link to test the connection
+
+# how to use API  
+## Get All Question
+**Endpoint :**\
+<https://[API-NAME-run.app]/q>
+
+
+- Url : 
+  - /q
+- Method
+  - GET
+- Request Body
+  - .body
+  
+
+## Get Question by context
+<https://[API-NAME-run.app]/question/:context>
+
+
+- Url : 
+  - /question/:context
+- Method
+  - GET
+- Request Body
+  - .body
+
+
+## EDIT question by context
+<https://[API-NAME-run.app]/question/:context>
+
+
+- Url : 
+  - /question/:context
+- Method
+  - PUT
+- Request Body
+  - .body
+
+
+## DELETE question by context
+<https://[API-NAME-run.app]/question/:context>
+
+
+- Url : 
+  - /question/:context
+- Method
+  - DELETE
+- Request Body
+  - .params.context
+
+
+## POST users
+<https://[API-NAME-run.app]/question/users>
+
+
+- Url : 
+  - /users
+- Method
+  - POST
+- Request Body
+  - .body
+
+
+## GET all users
+<https://[API-NAME-run.app]/question/users>
+
+
+- Url : 
+  - /users
+- Method
+  - SELECT * FROM users
+- Request Body
+  - .id
+
+## Get a user by ID
+<https://[API-NAME-run.app]/users/:id>
+
+
+- Url : 
+  - /users/:id
+- Method
+  - GET
+- Request Body
+  - .params
+
+## EDIT a user by ID
+<https://[API-NAME-run.app]/users/:id>
+
+
+- Url : 
+  - /users/:id
+- Method
+  - UPDATE
+- Request Body
+  - .params
+  - .body
+
+## Delete a user by ID
+<https://[API-NAME-run.app]/users/:id>
+
+
+- Url : 
+  - /users/:id
+- Method
+  - DELETE
+- Request Body
+  - .params
