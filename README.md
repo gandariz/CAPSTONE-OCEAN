@@ -239,6 +239,7 @@ The source code of Android App of OCEAN (Openness Conscientiousness Extraversion
 ![UI_OCEAN](https://github.com/Raihankamal/OCEAN-Bangkit-Capstone-2023/blob/main/UI_OCEAN.png?raw=true)
 
 ## Installation
+[MD Branch](https://github.com/Raihankamal/OCEAN-Bangkit-Capstone-2023)
 If you want to more about the project, you can clone this repository or directly download the .zip files, then open the file in Android Studio (preferably). 
 #### Prequisites (as this project made with these tools):
 
