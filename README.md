@@ -1,12 +1,12 @@
 # Capstone-Project-C23-PS103 / OCEAN
 # C23-PS103 
 ## Member
-(ML) M346DKX4122 – Alif Akbar Muhammad Isra – Universitas Sriwijaya - alifisra27@gmail.com
-(ML) M040DSX2572 – Rafi Athallah – Institut Teknologi Sumatera - Active
-(ML) M181DKX3780 – Raihansyah Arifin  – Universitas Indonesia - Active
-(CC) C356DKX4149 – Muhammad Ganda Rizky – Universitas Sriwijaya - Active
-(CC) C263DSX1381 – Muhammad Abdul Azizul Hakim– Universitas Multi Data Palembang - Active
-(MD) A346DKX4281 – Muhammad Raihan Aufa Kamal - Universitas Sriwijaya- Active
+-(ML) M346DKX4122  Alif Akbar Muhammad Isra  alifisra27@gmail.com
+-(ML) M040DSX2572  Rafi Athallah 
+-(ML) M181DKX3780  Raihansyah Arifin  
+-(CC) C356DKX4149  Muhammad Ganda Rizky 
+-(CC) C263DSX1381  Muhammad Abdul Azizul Hakim
+-(MD) A346DKX4281  Muhammad Raihan Aufa Kamal 
 
 ## Table of Contents
 - General Information
