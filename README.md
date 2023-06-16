@@ -1,3 +1,4 @@
+![logo](https://i.postimg.cc/Nj6BgS67/ocean-logo.png)
 # Capstone-Project-C23-PS103 / OCEAN
 # C23-PS103 
 ## Member
